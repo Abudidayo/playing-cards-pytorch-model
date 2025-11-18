@@ -1,5 +1,5 @@
-kaggle
-matplotlib==3.10.7
+matplotlib
 ipykernel
 pandas
 timm
+requests
